@@ -10,7 +10,7 @@ Within the virtual internship, I had a chance to work on a project to help our c
 
 ---
 
-## [Maven-Restaurant-Analytics-Challenge]
+## [Maven-Restaurant-Analytics-Challenge]((https://github.com/erinnaog/Maven-Restaurant-Challenge)
 
 ![Maven Restaurant Analytics Challenge](/images/sprocket_central_logo.png)
 
