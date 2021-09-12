@@ -6,7 +6,7 @@ Within the virtual internship, I had a chance to work on a project to help our c
 - I was able to work on multiple huge datasets, prepared and processed the data into the clean datasets, which later being used for exploratory data analysis, hypotheses testing as well as model development. 
 - In the last module of the virtual internship, I got the chance to upgrade my skill by using a new BI tool to me, Tableau to build an insightful dashboard and present that to our client.
 
-<img src="/images/sprocket_central_logo.png" width="450" height="150" align="center">
+![Sprocket Central](/images/sprocket_central_logo.png)
 
 ---
 
