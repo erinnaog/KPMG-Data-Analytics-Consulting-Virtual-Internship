@@ -8,5 +8,9 @@ Within the virtual internship, I had a chance to work on a project to help our c
 
 ![Sprocket_Central_Logo](/images/sprocket_central_logo.png)
 
+---
 
 ## [Maven-Restaurant-Analytics-Challenge]
+
+![Maven Restaurant Analytics Challenge](/images/sprocket_central_logo.png)
+
