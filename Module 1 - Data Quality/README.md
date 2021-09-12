@@ -1,7 +1,10 @@
 To begin the virtual internship, in module 1, I am given 3 different datasets to work on:
-- Customer Demographics
-- Customer Address
-- Transactions
+
+| Tables               | No. of Record | Date Received  |
+| -------------------- |:-------------:| --------------:|
+| CustomerDemographic  | 4000          | 2021-08-14     |
+| CustomerAddress      | 3999          | 2021-08-14     |
+| Transaction          | 20000         | 2021-08-14     |
 
 #### The goal for this module is:
 - Asked and understood the right and clear business problem our client was asking
